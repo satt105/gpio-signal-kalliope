@@ -15,7 +15,7 @@ This Kalliope signal can be used for example with the following hardware:
 ## Installation
 
 ```bash
-kalliope install --git-url https://github.com/kalliope-project/kalliope_signal_gpio_input.git
+kalliope install --git-url https://github.com/satt105/gpio-signal-kalliope.git
 ```
 
 ## Options
